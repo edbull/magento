@@ -33,10 +33,10 @@
         <resources>
             <default_setup>
                 <connection>
-                    <host>localhost</host>
+                    <host>localhost:/tmp/mysql/ellen.sock</host>
                     <username></username>
                     <password/>
-                    <dbname>magento</dbname>
+                    <dbname>ellen</dbname>
                     <model>mysql4</model>
                     <initStatements>SET NAMES utf8</initStatements>
                     <type>pdo_mysql</type>

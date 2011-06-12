@@ -40,10 +40,10 @@
             </db>
             <default_setup>
                 <connection>
-                    <host><![CDATA[localhost]]></host>
-                    <username><![CDATA[ed.bull]]></username>
+                    <host><![CDATA[localhost:/tmp/mysql/ellen.sock]]></host>
+                    <username><![CDATA[kirstie]]></username>
                     <password><![CDATA[mcnapple69]]></password>
-                    <dbname><![CDATA[magento]]></dbname>
+                    <dbname><![CDATA[ellen]]></dbname>
                     <active>1</active>
                 </connection>
             </default_setup>
